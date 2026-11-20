@@ -1,0 +1,7 @@
+ignoredBuiltDependencies:
+  - sharp
+  - unrs-resolver
+# wrangler (deploys and local preview) needs its bundler and the Workers runtime binaries.
+onlyBuiltDependencies:
+  - esbuild
+  - workerd

@@ -1,0 +1,38 @@
+{
+ "policy": {
+  "titles": [
+   "Returns",
+   "Exchanges",
+   "Refunds",
+   "Size & Fit",
+   "Tailoring & Alterations",
+   "Damaged, Defective or Incorrect Items",
+   "Privacy",
+   "Website & Content"
+  ],
+  "descs": [
+   "<p>We want you to feel confident when purchasing from Vodor.</p><p>If you are not completely satisfied with your purchase, you may request a return or exchange within <strong>3 days of receiving your order</strong>, provided the item meets the conditions below.</p><p>To be eligible:</p><ul><li><p>The item must be unworn and unused.</p></li><li><p>The item must be unwashed and free from perfume, makeup, stains or other marks.</p></li><li><p>All original tags and packaging must remain intact.</p></li><li><p>The item must be returned in its original condition.</p></li><li><p>The item must not have been altered, tailored or modified.</p></li></ul><p>Return or exchange requests must be submitted to Vodor before the item is sent back.</p><p>Items returned without prior approval may not be accepted.</p><p>Non-returnable items</p><p>The following items are not eligible for return or exchange:</p><ul><li><p>Tailored or altered garments</p></li><li><p>Custom-made pieces</p></li><li><p>Items purchased on final sale</p></li><li><p>Gift cards</p></li><li><p>Items that show signs of wear, washing or damage</p></li></ul><p>For hygiene and product integrity, certain items may also be excluded from return or exchange where applicable.</p>",
+   "<p>We are happy to assist with size exchanges where the requested size is available.</p><p>Exchanges are subject to product availability.</p><p>If the requested size is unavailable, we may offer an alternative solution where possible.</p><p>Customers are responsible for return shipping costs unless the original item was incorrect or defective.</p><p>All exchanged items must meet the same condition requirements outlined in our Returns &amp; Exchanges policy.</p>",
+   "<p>Once your returned item has been received and inspected, we will notify you of the outcome.</p><p>Approved refunds will be issued to the original payment method.</p><p>Original shipping costs are generally non-refundable unless the return is due to an incorrect, damaged or defective item received from Vodor.</p><p>Please allow additional time for your bank or payment provider to process the refund.</p>",
+   "<p>Vodor currently offers selected garments in sizes <strong>S, M and L</strong>.</p><p>We understand that fit is personal, particularly with relaxed and tailored silhouettes.</p><p>If you are unsure about your size, we encourage you to contact our team before placing your order. You may provide your measurements and we will recommend the most suitable size based on the garment's intended fit.</p><p>Measurements may vary slightly between garments due to fabric, construction and production processes.</p><p>Our size recommendations are provided as guidance and cannot guarantee a particular fit based on personal preference.</p>",
+   "<p>Selected Vodor garments may be tailored to better suit your measurements.</p><p>Tailoring is available upon request and may incur an additional charge depending on the alteration required.</p><p>Once a garment has been tailored or altered according to the customer's request, it is considered a customised item and is <strong>not eligible for return or exchange</strong>, unless the garment has a manufacturing defect.</p><p>We recommend confirming your measurements and desired fit with our team before authorising any alteration.</p>",
+   "<p>We carefully inspect each order before dispatch.</p><p>If your order arrives damaged, defective or contains an incorrect item, please contact us within <strong>24 hours of delivery</strong>.</p><p>Please include your order number and clear photographs or video showing the issue.</p><p>After reviewing the information, our team will determine the appropriate resolution, which may include repair, replacement, exchange or refund.</p><p>Please do not return a damaged or incorrect item before contacting us.</p>",
+   "<p>Vodor respects your privacy.</p><p>Information provided during the purchasing process — including your name, contact details, shipping information and payment-related information — is used only as necessary to process your order, provide customer service and operate our business.</p><p>Payment information is processed through our designated payment providers. Vodor does not store complete payment card details.</p><p>We may use your contact information to communicate with you regarding your orders, account or services you have requested.</p><p>For further information, please refer to our Privacy Policy.</p>",
+   "<p>All content appearing on the Vodor website, including photography, video, graphics, logos, product descriptions, text and design elements, is owned by or licensed to Vodor unless otherwise stated.</p><p>Content may not be reproduced, copied, modified, distributed or used commercially without prior written permission.</p><p>Vodor reserves the right to update website content, product information, pricing and availability at any time.</p>"
+  ]
+ },
+ "faq": {
+  "titles": [
+   "What materials does MaisonVarro use?",
+   "How should I care for my MaisonVarro garments?",
+   "Are MaisonVarro pieces suitable for everyday wear?",
+   "Where are MaisonVarro products made?"
+  ],
+  "descs": [
+   "<p>Vodor prioritises natural, premium materials such as linen, cotton, and full-grain leather. Many pieces are crafted in Vietnam, where traditional craftsmanship meets modern design sensibility.</p>",
+   "<p>To preserve the quality of your Vodor pieces, we recommend gentle washing for linen and cotton garments, and careful storage for leather accessories in a cool, dry environment.</p>",
+   "<p>Vodor designs are created for effortless living — balancing comfort, elegance, and versatility for both everyday moments and refined occasions.</p>",
+   "<p>Vodor pieces are thoughtfully produced in Vietnam, combining skilled local craftsmanship with a contemporary, global aesthetic.</p>"
+  ]
+ }
+}

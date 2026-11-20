@@ -1,0 +1,35 @@
+{
+  "name": "vodor-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "typecheck": "next typegen && tsc --noEmit",
+    "lint": "eslint",
+    "e2e": "playwright test",
+    "check": "pnpm lint && pnpm typecheck && pnpm build && pnpm e2e",
+    "preview": "wrangler pages dev out --port 4173",
+    "deploy:pages": "pnpm build && wrangler pages deploy out --project-name vodor --branch main --commit-dirty=true"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "5.108.2",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "zustand": "5.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.65.1",
+    "@tailwindcss/turbopack": "4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^10.15.0",
+    "eslint-config-next": "16.4.6",
+    "tailwindcss": "4.3.5",
+    "typescript": "^6.0.3",
+    "wrangler": "4.165.0"
+  },
+  "packageManager": "pnpm@10.33.0"
+}
